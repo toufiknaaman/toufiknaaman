@@ -59,28 +59,3 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 
-<div align="center">
-<a href="https://github.com/toufiknaaman">
-
-<img src="https://github-readme-stats.vercel.app/api?username=toufiknaaman&show_icons=true&theme=nord&hide_border=true&title_color=ffa500" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiknaaman&layout=compact&theme=nord&hide_border=true&title_color=ffa500" width="48%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toufiknaaman&theme=nord&hide_border=true&stroke=ffa500" width="100%">
-</details>
-  
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-</div>

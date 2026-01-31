@@ -2,13 +2,9 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/toufiknaaman" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/toufiknaaman" alt="Workspace"  width="40%"/><br> 
+<h1 align="center">Fullstack Developer | Building Scalable Web Applications with Modern Technologies</h1>
+<h3 align="center" style="font-weight: normal;">💼 Available for Freelance Projects</h3>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :     </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=toufiknaaman&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftoufiknaaman&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
@@ -16,6 +12,35 @@
 </div>
 
 <hr></hr>
+
+<hr>
+
+<!-- Contact Section -->
+<div align="center">
+  <h3>📬 Contact Me</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/toufik-naaman-20b5712b7/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <a href="mailto:toufiknaaman@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-toufiknaaman@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    &nbsp;
+    <a href="https://wa.me/0650824506" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-0650824506-green?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+  </p>
+</div>
+
+<hr>
+
+
+
+<hr></hr>
+
+<!-- Skills Section Title -->
+## 🚀 Skills & Tools
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -38,6 +63,8 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
+<!-- About Me Section Title -->
+## 👨‍💻 About Me
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **DevOps, CI/CD, Docker & Kubernetes**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>

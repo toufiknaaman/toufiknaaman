@@ -37,20 +37,7 @@
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-```dart
-// tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Javascript", "PHP", "Java", "Spring Boot", "Laravel" },
-    "FrontendFrameworks" : { "React", "Angular", "HTML", "CSS" },
-    "Database" : { "MySQL", "MongoDB", "Oracle Administration" },
-    "DevOps" : { "Docker", "Jenkins", "Git", "GitLab" },
-    "Platforms" : { "GNU/Linux", "Virtualization", "Cloud" },
-    "Editors" : { "Vscode", "IntelliJ" }
-  };
-}
-```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **DevOps, CI/CD, Docker & Kubernetes**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
